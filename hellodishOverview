@@ -1,0 +1,43 @@
+User App Overview :
+
+🔓 Authentication :
+* Options for users to log in or sign up and Password recovery features.
+🏠 Home :
+* Location Settings,Food Categories,Restaurant Listings.
+🛒 Cart : The Cart section is divided into three tabs:
+* Displays orders categorised into Scheduled, Completed, and Canceled orders. Each tab displays the respective list of orders based on their status
+🙋🏻‍♂️ Environment :
+* Profile management, customer support, Invite Friends, Privacy Policy Delete Account About Us and other app settings.
+
+
+
+Driver App Overview :
+
+🔓 Authentication:
+*Drivers must register by providing ID proof and purchasing necessary items like a T-shirt, bag, and cap, with account creation requiring admin approval before they can start working.
+🏠 Home:
+*  Drivers can set their status to online or offline. If a driver is online, they will receive assigned orders; if offline, they will not receive any orders.
+*A list of pending orders is available, allowing drivers to accept or reject them.
+📦 Orders:  The Orders section is divided into three tabs:
+    * Active Orders: Displays current orders with options to track, confirm pick-up, and mark as Out for Delivery.
+    * Completed / Canceled Orders : Lists all successfully delivered and canceled orders.
+💰 Wallet:
+* Drivers can add a minimum amount to their wallet, which supports withdrawals and shows a transaction history.
+🙋🏻‍♂️ Environment :
+* Profile management, Bank details, customer support, Invite Friends, Privacy Policy Delete Account About Us and other app settings.and also driver can update the bank details.
+
+
+Restaurant App Overview :
+
+🔓 Authentication:
+*Restaurants must register with the owner's name, restaurant name, location, daily hours, and working days. Account creation requires admin approval before they can start working.
+🏠 Home:
+*  Restaurants can set their status online restaurants receive orders, while offline ones do not. Orders not accepted within 2 minutes will be automatically rejected.
+*A list of pending orders is available, allowing restaurants to accept or reject them.
+📦 Orders:  The Orders section is divided into three tabs:
+    * Active Orders: Displays current orders with options to track, confirm pick-up, and mark as Out for Delivery.
+    * Completed / Canceled Orders : Lists all successfully delivered and canceled orders.
+💰 Wallet:
+* Drivers can add a minimum amount to their wallet, which supports withdrawals and shows a transaction history.
+🙋🏻‍♂️ Environment :
+* Profile management, Bank details, customer support, Invite Friends, Privacy Policy Delete Account About Us and other app settings.and also driver can update the bank details.
